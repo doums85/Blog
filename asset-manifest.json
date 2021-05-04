@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/doums85/blog-react/static/css/main.c2021724.chunk.css",
-    "main.js": "/doums85/blog-react/static/js/main.f5043eb4.chunk.js",
-    "main.js.map": "/doums85/blog-react/static/js/main.f5043eb4.chunk.js.map",
-    "runtime-main.js": "/doums85/blog-react/static/js/runtime-main.21b3200d.js",
-    "runtime-main.js.map": "/doums85/blog-react/static/js/runtime-main.21b3200d.js.map",
-    "static/js/2.a79e50a0.chunk.js": "/doums85/blog-react/static/js/2.a79e50a0.chunk.js",
-    "static/js/2.a79e50a0.chunk.js.map": "/doums85/blog-react/static/js/2.a79e50a0.chunk.js.map",
-    "index.html": "/doums85/blog-react/index.html",
-    "static/css/main.c2021724.chunk.css.map": "/doums85/blog-react/static/css/main.c2021724.chunk.css.map",
-    "static/js/2.a79e50a0.chunk.js.LICENSE.txt": "/doums85/blog-react/static/js/2.a79e50a0.chunk.js.LICENSE.txt"
+    "main.css": "/doums85/blog/static/css/main.c2021724.chunk.css",
+    "main.js": "/doums85/blog/static/js/main.c02dba54.chunk.js",
+    "main.js.map": "/doums85/blog/static/js/main.c02dba54.chunk.js.map",
+    "runtime-main.js": "/doums85/blog/static/js/runtime-main.40c44d45.js",
+    "runtime-main.js.map": "/doums85/blog/static/js/runtime-main.40c44d45.js.map",
+    "static/js/2.a79e50a0.chunk.js": "/doums85/blog/static/js/2.a79e50a0.chunk.js",
+    "static/js/2.a79e50a0.chunk.js.map": "/doums85/blog/static/js/2.a79e50a0.chunk.js.map",
+    "index.html": "/doums85/blog/index.html",
+    "static/css/main.c2021724.chunk.css.map": "/doums85/blog/static/css/main.c2021724.chunk.css.map",
+    "static/js/2.a79e50a0.chunk.js.LICENSE.txt": "/doums85/blog/static/js/2.a79e50a0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.21b3200d.js",
+    "static/js/runtime-main.40c44d45.js",
     "static/js/2.a79e50a0.chunk.js",
     "static/css/main.c2021724.chunk.css",
-    "static/js/main.f5043eb4.chunk.js"
+    "static/js/main.c02dba54.chunk.js"
   ]
 }
