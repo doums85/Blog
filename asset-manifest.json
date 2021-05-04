@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/doums85/blog/static/css/main.c2021724.chunk.css",
-    "main.js": "/doums85/blog/static/js/main.c02dba54.chunk.js",
-    "main.js.map": "/doums85/blog/static/js/main.c02dba54.chunk.js.map",
-    "runtime-main.js": "/doums85/blog/static/js/runtime-main.40c44d45.js",
-    "runtime-main.js.map": "/doums85/blog/static/js/runtime-main.40c44d45.js.map",
-    "static/js/2.a79e50a0.chunk.js": "/doums85/blog/static/js/2.a79e50a0.chunk.js",
-    "static/js/2.a79e50a0.chunk.js.map": "/doums85/blog/static/js/2.a79e50a0.chunk.js.map",
-    "index.html": "/doums85/blog/index.html",
-    "static/css/main.c2021724.chunk.css.map": "/doums85/blog/static/css/main.c2021724.chunk.css.map",
-    "static/js/2.a79e50a0.chunk.js.LICENSE.txt": "/doums85/blog/static/js/2.a79e50a0.chunk.js.LICENSE.txt"
+    "main.css": "/doums85/Blog/static/css/main.c2021724.chunk.css",
+    "main.js": "/doums85/Blog/static/js/main.67e6a535.chunk.js",
+    "main.js.map": "/doums85/Blog/static/js/main.67e6a535.chunk.js.map",
+    "runtime-main.js": "/doums85/Blog/static/js/runtime-main.f3570aaa.js",
+    "runtime-main.js.map": "/doums85/Blog/static/js/runtime-main.f3570aaa.js.map",
+    "static/js/2.a79e50a0.chunk.js": "/doums85/Blog/static/js/2.a79e50a0.chunk.js",
+    "static/js/2.a79e50a0.chunk.js.map": "/doums85/Blog/static/js/2.a79e50a0.chunk.js.map",
+    "index.html": "/doums85/Blog/index.html",
+    "static/css/main.c2021724.chunk.css.map": "/doums85/Blog/static/css/main.c2021724.chunk.css.map",
+    "static/js/2.a79e50a0.chunk.js.LICENSE.txt": "/doums85/Blog/static/js/2.a79e50a0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.40c44d45.js",
+    "static/js/runtime-main.f3570aaa.js",
     "static/js/2.a79e50a0.chunk.js",
     "static/css/main.c2021724.chunk.css",
-    "static/js/main.c02dba54.chunk.js"
+    "static/js/main.67e6a535.chunk.js"
   ]
 }
